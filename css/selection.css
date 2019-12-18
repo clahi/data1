@@ -1,0 +1,23 @@
+body { margin-left:10px; }
+ul  { list-style-type: none;padding:12px 0px; }
+ul  li {position:relative; border:1px solid gray; display:inline-block; width:36px; height:36px; 
+text-align:center; line-height:36px;margin-left:5px; border-radius: 18px;background-color:lightgray} 
+
+.target { color:red; background:white}
+
+.finished { background:lightyellow }
+
+ #arr0 , #arr1 { position:absolute; top:-2em; left:14px; padding:0; margin:0; font-weight:bold;  } 
+
+ #arr0 { color: blue; }
+ #arr1 { color: red; left:16px;} 
+
+ label, select, input[type=button] { font-size:1.1em;  margin-left:8px; }
+
+ input[type=button] { margin-left:16px; padding:1px 12px; }
+
+ select  { font-size:1.1em; } 
+ label { font-style: italic;  }
+
+ #OutDiv { margin-top:40px; }
+ 
